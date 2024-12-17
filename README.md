@@ -20,7 +20,7 @@ Non-Linear Orientation Representation: Utilizes Z-Y-X Euler angles for SO(3) tra
 - Vision-based pose and velocity measurements update the UKF.
 - Linear additive models are used for pose updates.
 
-Results:
+## Results:
 ![image](https://github.com/user-attachments/assets/81622ec9-6e97-4ccf-ac3f-9a9eeb478f79)
 
 
